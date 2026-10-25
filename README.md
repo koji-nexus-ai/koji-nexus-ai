@@ -67,23 +67,6 @@ Recent releases in October 2026 include improvements to AI agent evaluation, MCP
 
 I am expanding GrowX toward a unified social media operations platform, with Instagram and Threads integrations planned, subject to platform API access and approval.
 
-## 🎨 Creative Coding & Interactive Experiences
-
-I also explore procedural graphics, real-time simulations, and interactive 3D experiences.
-
-These projects are published under my separate GitHub account:
-
-**[aiimpl — Creative Coding Portfolio](https://github.com/aiimpl)**
-
-Selected projects:
-
-- [reality-js](https://github.com/aiimpl/reality-js) — Procedural shoreline and ocean simulation
-- [cenote](https://github.com/aiimpl/cenote) — Underwater environments, lighting, and water rendering
-- [funaikusa](https://github.com/aiimpl/funaikusa) — Historical naval battle simulation
-- [reality-js-aquarium](https://github.com/aiimpl/reality-js-aquarium) — Real-time aquatic simulation
-
-I use three.js and WebGL to explore how far code-generated environments can go without relying on imported 3D models.
-
 ## 🛠 How I Build
 
 Claude Code is central to my daily development workflow.
